@@ -1,4 +1,4 @@
-#Openburner
+# Openburner
 
 Openburner is a truely opensource stealthburner MCU board based on a raspberry Pi 2040. 
 
