@@ -12,4 +12,5 @@ This is a work in progress and I am saving it on git as a revision controlled pr
 | :-- | :-- |
 | Power Connector | https://www.lcsc.com/product-detail/C19268030.html?spm=wm.fly.bg.12.stp&lcsc_vid=TlVfUgBSRVQPVVJfQVFbAgZXFlhcUgYHRVRaA1dRR1IxVlNRQFBXVFJeQ1lWUzsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D |
 
+## Conclusion
 This is a lot more complex to achieve than anticipated, the parts are extremely hard to source reliably and does not readily facilitate driving down costs. I will revisit this again in the future with DIY CNC based PCB's.
